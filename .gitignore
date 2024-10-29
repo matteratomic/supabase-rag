@@ -1,4 +1,5 @@
 codes/
+states/
 # Byte-compiled files
 __pycache__/
 *.py[cod]
